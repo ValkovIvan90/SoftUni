@@ -1,5 +1,5 @@
 function helloSoftUni(){
-console.log("Hello Ivan");
+console.log("Hello SoftUni");
 
 }
 helloSoftUni()
