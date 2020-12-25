@@ -1,0 +1,4 @@
+function binaryToDecimal(params) {
+    
+}
+binaryToDecimal()
